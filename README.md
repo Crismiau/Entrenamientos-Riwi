@@ -1,5 +1,5 @@
 # 🌈 Entrenamientos-Riwi
-Todos los entranamientos de cada una de las semanas.
+Todos los entrenamientos de cada una de las semanas en Riwi
 
 ### Entranamientos:
 
